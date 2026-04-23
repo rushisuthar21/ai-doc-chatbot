@@ -34,8 +34,6 @@ This project demonstrates how modern AI APIs can be combined with full-stack dev
 
 Output:
 
-<img width="1920" height="1080" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/9f59f9a6-73a9-401d-b9cf-45013bd7f4cd" />
+<img width="1898" height="974" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/decc857f-7364-4878-a1f0-6211960e6a62" />
 
-
-
-<img width="1920" height="1080" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/a3823ce8-711f-41ea-a924-731a97616cfe" />
+<img width="1920" height="970" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/9262d4cb-3836-4e2d-be35-420b8fac9cbc" />
