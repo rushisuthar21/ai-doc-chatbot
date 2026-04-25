@@ -1,4 +1,5 @@
-🧠 AI Document Q&A Chatbot (RAG-based)
+🧠 AI Document Q&A Chatbot (RAG-based):-
+
 A full-stack AI-powered chatbot that allows users to upload documents and ask questions directly from their content. The system leverages Hugging Face APIs and context-based prompting to simulate Retrieval-Augmented Generation (RAG), enabling accurate, context-aware responses based on the uploaded files.
 
 🚀 Features:-
