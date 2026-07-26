@@ -1,0 +1,22 @@
+# 🔐 Environment / API keys
+.env
+.env.local
+*.env
+
+# 📦 Dependencies
+node_modules/
+
+# 🧠 Logs
+*.log
+
+# 💻 System files
+.DS_Store
+Thumbs.db
+
+# 📁 Build / output folders
+dist/
+build/
+
+# 🧪 IDE settings
+.vscode/
+.idea/
