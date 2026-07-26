@@ -19,6 +19,7 @@ Backend: Node.js, Express
 AI/ML: Hugging Face APIs
 
 Concepts: Retrieval-Augmented Generation (RAG), Context Prompting
+add your .env file in backedn folder and add the aistudio.google.com/api-key and hugging face api in it.
 
 📌 Overview This project demonstrates how modern AI APIs can be combined with full-stack development to create an intelligent document assistant. Users can upload files and instantly interact with their content through a conversational interface.
 
