@@ -24,3 +24,7 @@ add your .env file in backedn folder and add the aistudio.google.com/api-key and
 📌 Overview This project demonstrates how modern AI APIs can be combined with full-stack development to create an intelligent document assistant. Users can upload files and instantly interact with their content through a conversational interface.
 
 Output:
+<img width="1920" height="1080" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/e8437294-d8a9-44b7-bc2b-5bccb0a6bf28" />
+<img width="1920" height="1080" alt="Screenshot (343)" src="https://github.com/user-attachments/assets/36d0c3af-3dce-453d-85f7-ad404ee854c5" />
+<img width="1920" height="1080" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/21e31ece-b910-47c4-a7f8-e4427b5fc31a" />
+<img width="1920" height="1080" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/b0d1db73-2df5-447b-947a-bd84d4265502" />
